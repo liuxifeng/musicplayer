@@ -1,2 +1,14 @@
 #×¢ÊÍ
 *.class
+.classpath
+.gitignore
+*.png
+*.txt
+.project
+project.properties
+
+.settings/
+assets/
+gen/
+bin/
+res/
